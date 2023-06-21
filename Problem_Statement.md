@@ -1,6 +1,6 @@
 # Problem Statement
 
-## A Not-so-good performance
+## Scrape-through-performance
 Himanshu is a beginner guitar player. His first show gathered a grand total of two spectators: Arin and Shreyansh.
 
 Himanshu prepared $a1 + a2 + a3 + a4$ pieces to play, grouped by their type:
